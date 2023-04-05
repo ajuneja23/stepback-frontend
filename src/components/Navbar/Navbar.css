@@ -1,0 +1,14 @@
+/** @format */
+
+.navbar {
+  justify-content: right;
+}
+.navbarelement {
+  margin-left: 2%;
+  margin-right: 2%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(158, 35, 35);
+}
+.navbarelement:hover {
+  color: #207c27;
+}

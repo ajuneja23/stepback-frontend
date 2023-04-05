@@ -1,0 +1,16 @@
+/** @format */
+
+.accessdenytext {
+  text-align: center;
+  color: rgb(158, 35, 35);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.redirectinfo {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.loginsignuptext {
+  color: #207c27;
+}

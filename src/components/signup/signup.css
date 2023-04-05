@@ -1,0 +1,16 @@
+/** @format */
+
+.signuptitle {
+  padding-bottom: 4%;
+  padding-top: 2%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(158, 35, 35);
+}
+
+.loginredirect {
+  color: rgb(158, 35, 35);
+}
+/* #207C27 */
+.loginredirectsegment {
+  color: #207c27;
+}

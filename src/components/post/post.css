@@ -1,0 +1,23 @@
+/** @format */
+
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.statsBox {
+  color: #207c27;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.infoBox {
+  width: 65%;
+  background-color: white;
+}
+
+.authortext {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(158, 35, 35);
+}
+
+.authorarea {
+  font-weight: bold;
+}

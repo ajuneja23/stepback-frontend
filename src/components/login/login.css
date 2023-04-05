@@ -1,0 +1,15 @@
+/** @format */
+
+.logintitle {
+  padding-bottom: 4%;
+  padding-top: 2%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(158, 35, 35);
+}
+.signupredirect {
+  color: rgb(158, 35, 35);
+}
+
+.signupredirectsegment {
+  color: #207c27;
+}
